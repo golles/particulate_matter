@@ -1,4 +1,11 @@
-# Particulate matter sensor
+# This repo has been archived and the code is maintained in:
+ - Repo: https://github.com/golles/ESPHome-Config
+ - Documentation: https://github.com/golles/ESPHome-Config/blob/main/docs/PARTICULATE_MATTER.md
+ - Configuration: https://github.com/golles/ESPHome-Config/blob/main/particulate_matter.yaml
+
+---
+
+# Particulate matter sensor moved
 
 This is an [ESPHome](https://esphome.io/) particulate matter sensor. The shopping list (~30$) and build steps can be found on [sensor.community](https://sensor.community/en/sensors/airrohr/).
 
